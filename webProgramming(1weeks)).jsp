@@ -4,14 +4,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>정훈의 세로운 자바 스크립트</title>
+<title>Insert title here</title>
 </head>
-<body>
-	<%
-		out.print("안녕하세요");
-	%>
-	<hr>
-		<img src="image/OIP.jpg"width="100"height="200" ><br>
-	<p><a href="http://naver.com"target="_blank">tutorials<a>
-</body>
+	<h1>
+		<a href="https:\\www.naver.com\"><img src = "image/move.png"width="200"height="100"><a>
+	</h1>
+	<body>
+		<table border ="1">
+			<th>
+				<td>1-1열생성</td>
+				<td>1-2열생성</td>
+			</th>
+			<tr>
+				<td>2-1열생성</td>
+				<td>2-2열생성</td>
+			</tr>
+		</table>
+	</body>
 </html>
