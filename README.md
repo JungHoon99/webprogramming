@@ -30,9 +30,10 @@
 ![eclipse-다운로드-이클립스-설치](https://user-images.githubusercontent.com/44799091/159211156-aafc3add-1f82-45e2-8603-9b953c240d1a.png)
 
 
-- 자바
+- 자바 서버
 
-![javap](https://user-images.githubusercontent.com/44799091/159211090-e0e23182-d3df-478c-8d6f-dd5383ac3134.png)
+![download](https://user-images.githubusercontent.com/44799091/159215765-7fe650dd-f5b0-44db-b69b-7828dada2a50.png)
+
 
 - html&css
 
