@@ -39,5 +39,5 @@
 ![download](https://user-images.githubusercontent.com/44799091/159211059-16e31898-b8eb-47c8-a65f-ea14ff7fead9.jpg)
 
 
-### 개발 일정!
+### 개발 일정
 ![캡처](https://user-images.githubusercontent.com/44799091/159210928-97cf5e7c-e98e-4c17-b4f0-c3577a81754b.PNG)
