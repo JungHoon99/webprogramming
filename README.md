@@ -28,11 +28,13 @@
 - 이클립스
 ![eclipse-다운로드-이클립스-설치](https://user-images.githubusercontent.com/44799091/159210885-4b2ff2dc-6dec-4698-b5d1-3a7903ae312d.png)
 - 자바
-![Uploading javap.png…]()
+![javap](https://user-images.githubusercontent.com/44799091/159211090-e0e23182-d3df-478c-8d6f-dd5383ac3134.png)
+
 - mysql
-![download](https://user-images.githubusercontent.com/44799091/159210915-befa604e-e4b3-42c8-9a90-6b28df7c2817.png
+![download](https://user-images.githubusercontent.com/44799091/159211059-16e31898-b8eb-47c8-a65f-ea14ff7fead9.jpg)
 
 
-### 개발 일정
+### 개발 일정![Uploading download.jpg…]()
+
 
 ![캡처](https://user-images.githubusercontent.com/44799091/159210928-97cf5e7c-e98e-4c17-b4f0-c3577a81754b.PNG)
