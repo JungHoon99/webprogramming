@@ -8,20 +8,25 @@
 	<title>Insert title here</title>
 </head>
 	<body>
-		<form action="ParamServlet" method="get" name="frm">
-		<fieldset class="loginField">
-			<legend>로그인</legend>
-			아이디 :   <input type="test" name="id"><br>
-			비밀번호 : <input type="text" name="age"><br>
-			<input type="button" value="로그인" onclick="button1_click()">
-		</fieldset>
+		<form action="join.jsp" method="get" name="frm">
+			<div class="loginField">
+				<div class="loginBox" >
+					<label class="loginLabel" for="login">로그인 </label>
+					<input type="test" class="loginLabel" name="login">
+				</div>
+				<div class="loginBox">
+					<label class="loginLabel" for="password">비밀번호</label> 
+					<input type="password" class="loginLabel" name="password"><br>
+				</div>
+				<button class="loginButton" onclick=button1_click()>로그인</button>
+			</div>
 		</form>
 		<div>
-		    <ul class="container">
+		    <ul class="flex-container">
 		      <li>
 		        <a href="#">
 		          <div>
-		            <img src="image/black_hoodie.jpg"  alt="">
+		            <img src="image/black_hoodie.jpg" alt="">
 		          </div>
 		          <div>
 		            <span>product</span>
